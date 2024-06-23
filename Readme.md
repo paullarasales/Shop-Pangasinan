@@ -1,1 +1,1 @@
-
+This project aims to predict house prices using a machine learning model. By analyzing various features of houses, such as size, location, and number of bedrooms, the model provides an estimated price. This repository contains the code and resources needed to train, evaluate, and deploy the house price prediction model.
